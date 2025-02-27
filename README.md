@@ -1,18 +1,6 @@
 # Top-25-TV-Shows
 As an unstructured data analytics project, I scraped a page of the Rotten Tomatoes website to complete an analysis of the current top 25 TV shows.  I did an analysis comparing the critics' and audiences' ratings scores. Additionally, I obtained the comments and respective ratings for all TV shows and did sentiment analysis and topic modeling.
 
-
----
-title: "Rotten Tomatoes Top 25 TV Shows"
-author: "Giulia Neves Monteiro"
-format:
-  html:
-    toc: true
-    toc-location: left
-    self-contained: true
-jupyter: python3
----
-
 ## Introduction
 The beginning of 2025 was very promising for us TV show enthusiasts. Many new seasons for some of our favorite shows were finally coming back. Some even after a few years of waiting, such as Severance season 2. There was also the addition of a few new and very unique TV shows like Paradise. As someone who loves her TV shows and has a great ability to bing watching new seasons as soon as they come out, I decided to take a look at the top 25 TV shows of 2025 according to Rotten Tomatoes. 
 
